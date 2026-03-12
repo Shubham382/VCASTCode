@@ -1,0 +1,82 @@
+    Processing options file d:\python-mcp-server\vcastagent\project\vectorcast_env\ENV_CALC\CCAST_.CFG
+    Reading environment script "D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC\ENV_CALC.env"
+    Initializing search list
+    Creating the Environment Directory
+    Creating Environment "ENV_CALC"
+    Unit 8 (not-stubbed): User Defined Globals
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880001_Command
+        Command Returned Exit Code: 0: 84880001
+       Parsing 
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880002_Command
+        Command Returned Exit Code: 0: 84880002
+       Initializing parse data
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880003_Command
+        Command Returned Exit Code: 0: 84880003
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880004_Command
+        Command Returned Exit Code: 0: 84880004
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880005_Command
+        Command Returned Exit Code: 0: 84880005
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880006_Command
+        Command Returned Exit Code: 0: 84880006
+       Generating harness code
+       Saving unit data
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880007_Command
+        Command Returned Exit Code: 0: 84880007
+    Parsing sample_rh850
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880008_Command
+        Command Returned Exit Code: 0: 84880008
+    Unit 9 (stub-by-function): sample_rh850
+       Loading stored IL
+       Initializing parse data
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880009_Command
+        Command Returned Exit Code: 0: 84880009
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880010_Command
+        Command Returned Exit Code: 0: 84880010
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880011_Command
+        Command Returned Exit Code: 0: 84880011
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880012_Command
+        Command Returned Exit Code: 0: 84880012
+       Generating harness code
+       Saving unit data
+    Compiling file VECTORCAST_IO
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880013_Command
+        Command Returned Exit Code: 0: 84880013
+    Compiling file User Defined Globals
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880014_Command
+        Command Returned Exit Code: 0: 84880014
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880015_Command
+        Command Returned Exit Code: 0: 84880015
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880016_Command
+        Command Returned Exit Code: 0: 84880016
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880017_Command
+        Command Returned Exit Code: 0: 84880017
+    Compiling file Data File Number 2
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880018_Command
+        Command Returned Exit Code: 0: 84880018
+    Compiling file Driver
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880019_Command
+        Command Returned Exit Code: 0: 84880019
+    Compiling file User Defined Package
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880020_Command
+        Command Returned Exit Code: 0: 84880020
+    Setting Up Statement+MC/DC Coverage
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880021_Command
+        Command Returned Exit Code: 0: 84880021
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880022_Command
+        Command Returned Exit Code: 0: 84880022
+    Instrumenting file sample_rh850
+    Creating expanded header information for sample_rh850
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880023_Command
+        Command Returned Exit Code: 0: 84880023
+    Compiling file sample_rh850
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880024_Command
+        Command Returned Exit Code: 0: 84880024
+    Compiling file Data File Number 1
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880025_Command
+        Command Returned Exit Code: 0: 84880025
+    Linking Instrumented Harness
+        Running Command: C:/Users/adm_shubham\.vcastProcessMonitorLogs\84880026_Command
+        Command Returned Exit Code: 0: 84880026
+    Coverage Initialized
+    Writing VectorCAST Database Files to Disk
+    Environment built Successfully

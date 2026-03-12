@@ -1,0 +1,176 @@
+---- Objects for Unit  8
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_INT1
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: int
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_INT2
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: int
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_INT3
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: int
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_FLT1
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: float
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_STR1
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: CCAST_8_1
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+********* object_pointer *********
+********* object_type *********
+name : VECTORCAST_BUFFER
+variant : OB_JECT
+default : 
+    VSTRING: 
+declaration_start : 
+    ********* file_location *********
+    line :  0
+    column :  0
+declaration_end : 
+    ********* file_location *********
+    line :  0
+    column :  0
+type_mark 
+    ********* identifier_pointer *********
+        VSTRING: CCAST_8_2
+    next : 
+    null
+unique id : 
+renames_what : 
+access type : PUBLIC
+is_driver_class : FALSE
+is_static_member : FALSE
+token_list : 
+variable_type : 
+variable_name : 
+is_extern : FALSE
+next : 
+null

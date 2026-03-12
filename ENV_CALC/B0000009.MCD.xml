@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit_mcdc_tables index="9" translation_unit_index="0" mcdversion="5" pruneEquiv="1">
+  <sub idx="2">
+    <con idx="1">
+      <subc letter="a">
+        <pr a="1">
+          <b>2</b>
+        </pr>
+      </subc>
+      <ln>14</ln>
+      <act>x % 2 == 0</act>
+      <ops>
+        <op subc="a">
+          <sim>x % 2 == 0</sim>
+          <start_line>13</start_line>
+          <start_col>9</start_col>
+          <end_line>13</end_line>
+          <end_col>18</end_col>
+          <tu_start_line>29</tu_start_line>
+          <tu_end_line>29</tu_end_line>
+        </op>
+      </ops>
+      <sim>a</sim>
+      <res idx="1">T</res>
+      <res idx="2">F</res>
+    </con>
+  </sub>
+  <sub idx="3">
+    <con idx="1">
+      <subc letter="a">
+        <pr a="1">
+          <b>2</b>
+        </pr>
+      </subc>
+      <ln>24</ln>
+      <act>a &gt; b</act>
+      <ops>
+        <op subc="a">
+          <sim>a &gt; b</sim>
+          <start_line>22</start_line>
+          <start_col>9</start_col>
+          <end_line>22</end_line>
+          <end_col>13</end_col>
+          <tu_start_line>38</tu_start_line>
+          <tu_end_line>38</tu_end_line>
+        </op>
+      </ops>
+      <sim>a</sim>
+      <res idx="1">T</res>
+      <res idx="2">F</res>
+    </con>
+  </sub>
+  <sub idx="4">
+    <con idx="1">
+      <subc letter="a">
+        <pr a="2">
+          <b>6</b>
+        </pr>
+      </subc>
+      <subc letter="b">
+        <pr a="2">
+          <b>4</b>
+        </pr>
+      </subc>
+      <subc letter="c">
+        <pr a="3">
+          <b>4</b>
+        </pr>
+        <pr a="5">
+          <b>6</b>
+        </pr>
+        <pr a="7">
+          <b>8</b>
+        </pr>
+      </subc>
+      <ln>34</ln>
+      <act>a &gt; b &amp;&amp; b &gt; c || c &gt; a</act>
+      <ops>
+        <op subc="a">
+          <sim>a &gt; b</sim>
+          <start_line>31</start_line>
+          <start_col>10</start_col>
+          <end_line>31</end_line>
+          <end_col>14</end_col>
+          <tu_start_line>47</tu_start_line>
+          <tu_end_line>47</tu_end_line>
+        </op>
+        <op subc="b">
+          <sim>b &gt; c</sim>
+          <start_line>31</start_line>
+          <start_col>19</start_col>
+          <end_line>31</end_line>
+          <end_col>23</end_col>
+          <tu_start_line>47</tu_start_line>
+          <tu_end_line>47</tu_end_line>
+        </op>
+        <op subc="c">
+          <sim>c &gt; a</sim>
+          <start_line>31</start_line>
+          <start_col>30</start_col>
+          <end_line>31</end_line>
+          <end_col>34</end_col>
+          <tu_start_line>47</tu_start_line>
+          <tu_end_line>47</tu_end_line>
+        </op>
+      </ops>
+      <sim>((a &amp;&amp; b) || c)</sim>
+      <res idx="2">T</res>
+      <res idx="3">T</res>
+      <res idx="4">F</res>
+      <res idx="5">T</res>
+      <res idx="6">F</res>
+      <res idx="7">T</res>
+      <res idx="8">F</res>
+    </con>
+  </sub>
+</unit_mcdc_tables>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE testcase_data>
+<testcase_data xml_testcase_version="2.0">
+  <compound>
+    <name>&lt;&lt;COMPOUND&gt;&gt;</name>
+  </compound>
+  <init>
+    <name>&lt;&lt;INIT&gt;&gt;</name>
+  </init>
+  <unit index="9" coverage_type="Statement+MCDC">
+    <name>sample_rh850</name>
+    <subprogram index="1">
+      <name>add</name>
+    </subprogram>
+    <subprogram index="2">
+      <name>is_even</name>
+    </subprogram>
+    <subprogram index="3">
+      <name>max</name>
+    </subprogram>
+    <subprogram index="4">
+      <name>check_conditions</name>
+    </subprogram>
+  </unit>
+</testcase_data>

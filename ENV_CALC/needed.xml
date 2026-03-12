@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env_info>
+  <needed_entities>
+    <unit id="9">
+      <function id="add" name="add" defined="1" const="0" file="1" return="int">
+        <parameters>
+          <parameter type="int" name="a"/>
+          <parameter type="int" name="b"/>
+        </parameters>
+      </function>
+      <function id="is_even" name="is_even" defined="1" const="0" file="1" return="int">
+        <parameters>
+          <parameter type="int" name="x"/>
+        </parameters>
+      </function>
+      <function id="max" name="max" defined="1" const="0" file="1" return="int">
+        <parameters>
+          <parameter type="int" name="a"/>
+          <parameter type="int" name="b"/>
+        </parameters>
+      </function>
+      <function id="check_conditions" name="check_conditions" defined="1" const="0" file="1" return="int">
+        <parameters>
+          <parameter type="int" name="a"/>
+          <parameter type="int" name="b"/>
+          <parameter type="int" name="c"/>
+        </parameters>
+      </function>
+    </unit>
+  </needed_entities>
+  <files>
+    <file id="1">D:/python-mcp-server/vcastagent/project/src/sample_rh850.c</file>
+  </files>
+</env_info>

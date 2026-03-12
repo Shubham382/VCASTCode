@@ -1,0 +1,174 @@
+DBG_X> Tool Version: 25.sp4 (08/19/25)
+DBG_X> Tool Directory: C:\Tools\VCAST
+DBG_X> Debug enabled: DBG_SYSCMD DBG_TRACE DBG_EXCEPTION DBG_SQL DBG_NORMAL DBG_GUI DBG_VRESULT_TRACE  GLOBAL_DEBUG_TIMING: TRUE
+DBG_N 00001> ( 62073.617512800) Quickparse: File D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC/GUI_QP.IN
+DBG_N 00002> ( 62073.617688100) QP_CONFIG:D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC
+DBG_T 00003> ( 62073.617726400) INITIALIZE_OPTIONS
+DBG_T      >  ...D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC
+DBG_N 00004> ( 62073.617765100) VECTORCAST_DIR : C:\Tools\VCAST\
+DBG_N      >  ...USER_HOME   : C:\Users\adm_shubham\
+DBG_N      >  ...USER_CURRENT: d:\python-mcp-server\vcastagent\project\vectorcast_env\ENV_CALC\
+DBG_T 00005> ( 62073.618604700) INITIALIZE_OPTIONS_FROM_FILE
+DBG_T      >  ...D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC\CCAST_.CFG
+DBG_N 00006> ( 62073.618844900) SET_OPTION with
+DBG_N      >  ...C_COMPILER_CFG_SOURCE
+DBG_N      >  ...PY_CONFIGURATOR
+DBG_N 00007> ( 62073.618860600) SET_OPTION with
+DBG_N      >  ...C_COMPILER_FAMILY_NAME
+DBG_N      >  ...GNU_Native
+DBG_N 00008> ( 62073.618876800) SET_OPTION with
+DBG_N      >  ...C_COMPILER_HIERARCHY_STRING
+DBG_N      >  ...VectorCAST MinGW_C
+DBG_N 00009> ( 62073.618886900) SET_OPTION with
+DBG_N      >  ...C_COMPILER_OUTPUT_FLAG
+DBG_N      >  ...-o
+DBG_N 00010> ( 62073.618896200) SET_OPTION with
+DBG_N      >  ...C_COMPILER_PY_ARGS
+DBG_N      >  ...--lang c --version Built-in-MinGW
+DBG_N 00011> ( 62073.618905700) SET_OPTION with
+DBG_N      >  ...C_COMPILER_TAG
+DBG_N      >  ...BUILTIN_MINGW_C
+DBG_N 00012> ( 62073.618914800) SET_OPTION with
+DBG_N      >  ...C_COMPILER_VERSION_CMD
+DBG_N      >  ...gcc --version
+DBG_N 00013> ( 62073.618923900) SET_OPTION with
+DBG_N      >  ...C_COMPILE_CMD
+DBG_N      >  ...gcc -c -g
+DBG_N 00014> ( 62073.618932700) SET_OPTION with
+DBG_N      >  ...C_DEBUG_CMD
+DBG_N      >  ...gdb
+DBG_N 00015> ( 62073.618941600) SET_OPTION with
+DBG_N      >  ...C_DEFINE_LIST
+DBG_N      >  ...__USE_MINGW_ANSI_STDIO
+DBG_N 00016> ( 62073.618950500) SET_OPTION with
+DBG_N      >  ...C_EDG_FLAGS
+DBG_N      >  ...-w --gcc --gnu_version 100200 --64_bit_target --x86_64 --mingw
+DBG_N 00017> ( 62073.618959500) SET_OPTION with
+DBG_N      >  ...C_LINKER_VERSION_CMD
+DBG_N      >  ...ld --version
+DBG_N 00018> ( 62073.618968300) SET_OPTION with
+DBG_N      >  ...C_LINK_CMD
+DBG_N      >  ...gcc -g
+DBG_N 00019> ( 62073.618977100) SET_OPTION with
+DBG_N      >  ...C_PREPROCESS_CMD
+DBG_N      >  ...gcc -E -ftrack-macro-expansion=0 -C
+DBG_N 00020> ( 62073.618986200) SET_OPTION with
+DBG_N      >  ...VARIANT_LOGICS_PATH
+DBG_N 00021> ( 62073.618994900) SET_OPTION with
+DBG_N      >  ...VCAST_ASSEMBLY_FILE_EXTENSIONS
+DBG_N      >  ...s
+DBG_N 00022> ( 62073.619056600) SET_OPTION with
+DBG_N      >  ...VCAST_COLLAPSE_STD_HEADERS
+DBG_N      >  ...COLLAPSE_NONE
+DBG_N 00023> ( 62073.619071400) SET_OPTION with
+DBG_N      >  ...VCAST_COMMAND_LINE_DEBUGGER
+DBG_N      >  ...TRUE
+DBG_N 00024> ( 62073.619082900) SET_OPTION with
+DBG_N      >  ...VCAST_DISABLE_STD_WSTRING_DETECTION
+DBG_N      >  ...TRUE
+DBG_N 00025> ( 62073.619092000) SET_OPTION with
+DBG_N      >  ...VCAST_DISPLAY_UNINST_EXPR
+DBG_N      >  ...FALSE
+DBG_N 00026> ( 62073.619100400) SET_OPTION with
+DBG_N      >  ...VCAST_ENVIRONMENT_FILES
+DBG_N 00027> ( 62073.619108900) SET_OPTION with
+DBG_N      >  ...VCAST_GNU_SYSTEM_MARKER
+DBG_N      >  ...TRUE
+DBG_N 00028> ( 62073.619117400) SET_OPTION with
+DBG_N      >  ...VCAST_HAS_LONGLONG
+DBG_N      >  ...TRUE
+DBG_N 00029> ( 62073.619125700) SET_OPTION with
+DBG_N      >  ...VCAST_PREPEND_TO_PATH_DIRS
+DBG_N      >  ...$(VECTORCAST_DIR)/MinGW/bin
+DBG_N 00030> ( 62073.619240200) SET_OPTION with
+DBG_N      >  ...VCAST_TEST_VALUES_DICTIONARY
+DBG_N 00031> ( 62073.619255000) SET_OPTION with
+DBG_N      >  ...VCAST_TYPEOF_OPERATOR
+DBG_N      >  ...TRUE
+DBG_N 00032> ( 62073.619264200) SET_OPTION with
+DBG_N      >  ...VCAST_VCDB_FLAG_STRING
+DBG_N      >  ...-isystem=1
+DBG_N 00033> ( 62073.619303500) SET_OPTION with
+DBG_N      >  ...VCDB_CMD_VERB
+DBG_N 00034> ( 62073.619317100) SET_OPTION with
+DBG_N      >  ...VCDB_FILENAME
+DBG_N 00035> ( 62073.619326300) SET_OPTION with
+DBG_N      >  ...WHITEBOX
+DBG_N      >  ...YES
+DBG_N 00036> ( 62073.619335300) SET_OPTION with
+DBG_N      >  ...BASE_DIRECTORY
+DBG_N      >  ...d=D:\python-mcp-server\vcastagent\project\
+DBG_N 00037> ( 62073.619351300) SET_OPTION with
+DBG_N      >  ...TESTABLE_SOURCE_DIR
+DBG_N      >  ...D:\python-mcp-server\vcastagent\project\\src
+DBG_N 00038> ( 62073.619361300) SET_OPTION with
+DBG_N      >  ...TESTABLE_SOURCE_DIR
+DBG_N      >  ...D:\python-mcp-server\vcastagent\project\\include
+DBG_N 00039> ( 62073.619628300) COVERAGE_TYPE.LOAD_SKINS
+DBG_N 00040> ( 62073.621361700) QP_DIR:D:/python-mcp-server/vcastagent/project/src
+DBG_N 00041> ( 62073.621395500) QP_DATA:junk.qik
+DBG_N 00042> ( 62073.621607100) BUILD_INFO_PKG.LOAD .\vcast_build_info.xml
+DBG_N 00043> ( 62073.621649100) BUILD_INFO_PKG.LOAD - file does not exist
+DBG_N 00044> ( 62073.621679300) QP_FILE:sample_rh850.c
+DBG_N 00045> ( 62073.621692400) QP_SAVE_TU_AS:sample_rh850.c.tu
+DBG_N 00046> ( 62073.621706700) QP_LOCAL_DIR:D:\python-mcp-server\vcastagent\project\src
+DBG_N 00047> ( 62073.621738100) QP_LOCAL_DIR:D:\python-mcp-server\vcastagent\project\include
+DBG_T 00048> ( 62073.621780100) language is C
+DBG_N 00049> ( 62073.622330200) GET_UNIT_COMPILATION ARGUMENTS
+DBG_S 00050> ( 62073.622705000) DIR_LIST  D:/python-mcp-server/vcastagent/project/src
+DBG_N 00051> ( 62073.623092900) GET_UNIT_COMPILATION ARGUMENTS
+DBG_T 00052> ( 62073.623567500) Get_Preprocessed_File called
+DBG_T      >  ...SOURCE_FILE=D:/python-mcp-server/vcastagent/project/src\sample_rh850.c, DESTINATION_FILE=TU_sample_rh850.c
+DBG_T 00053> ( 62073.623680100) Get_Preprocessed_File: preparing for preprocess
+DBG_N 00054> ( 62073.624316900) GET_UNIT_COMPILATION ARGUMENTS
+DBG_N      >  ...sample_rh850.c
+DBG_N 00055> ( 62073.627212900) EXECUTION_QUEUE_PKG.ADD_COMMAND
+DBG_N      >  ...gcc -E -ftrack-macro-expansion=0 -C -D__USE_MINGW_ANSI_STDIO -DVCAST_MAX_STRING_LENGTH=1000 -DVCAST_MAX_FILES=20 -DVCAST_CLASS_INST_SHARING -DVCAST_DISABLE_STD_WSTRING_DETECTION -DVCAST_HAS_LONGLONG -DVCAST_TYPEOF_OPERATOR -DVCAST_USE_STD_STRING -DVCAST_PROBE_POINTS_AVAILABLE -DVCAST_UNIT_TEST_TOOL -DVCAST_ORIGINAL_CODE -DVECTORCAST  -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\SRC -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\INCLUDE     vcast_preprocess.10224.1000.c
+DBG_T 00056> ( 62073.627924600) PLATFORM.EXECUTE_COMMAND
+DBG_T      >  ...Command: gcc -E -ftrack-macro-expansion=0 -C -D__USE_MINGW_ANSI_STDIO -DVCAST_MAX_STRING_LENGTH=1000 -DVCAST_MAX_FILES=20 -DVCAST_CLASS_INST_SHARING -DVCAST_DISABLE_STD_WSTRING_DETECTION -DVCAST_HAS_LONGLONG -DVCAST_TYPEOF_OPERATOR -DVCAST_USE_STD_STRING -DVCAST_PROBE_POINTS_AVAILABLE -DVCAST_UNIT_TEST_TOOL -DVCAST_ORIGINAL_CODE -DVECTORCAST  -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\SRC -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\INCLUDE     vcast_preprocess.10224.1000.c
+DBG_T      >  ...Directory: 
+DBG_S 00057> ( 62073.628642000) EXEC CMD: gcc -E -ftrack-macro-expansion=0 -C -D__USE_MINGW_ANSI_STDIO -DVCAST_MAX_STRING_LENGTH=1000 -DVCAST_MAX_FILES=20 -DVCAST_CLASS_INST_SHARING -DVCAST_DISABLE_STD_WSTRING_DETECTION -DVCAST_HAS_LONGLONG -DVCAST_TYPEOF_OPERATOR -DVCAST_USE_STD_STRING -DVCAST_PROBE_POINTS_AVAILABLE -DVCAST_UNIT_TEST_TOOL -DVCAST_ORIGINAL_CODE -DVECTORCAST  -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\SRC -ID:\PYTHON-MCP-SERVER\VCASTAGENT\PROJECT\INCLUDE     vcast_preprocess.10224.1000.c WAIT:  2147483647
+DBG_S      >  ...PATH: C:\Tools\VCAST\MinGW\bin;C:\Tools\VCAST\MinGW\bin;C:\Tools\VCAST;C:\Python314\Scripts\;C:\Python314\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Tools\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Vector SIL Kit 5.0.1\x86\bin;C:\Program Files\Vector SIL Kit 5.0.1\x86_64\bin;C:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Tools\nodejs\;C:\ProgramData\chocolatey\bin;C:\Tools\Putty\;C:\Tools\VCAST;C:\Tools\VCAST\MinGW\bin;C:\Users\adm_shubham\AppData\Local\Microsoft\WindowsApps;C:\Users\adm_shubham\AppData\Roaming\npm;C:\Users\adm_shubham\AppData\Roaming\Python\Python314\Scripts\;C:\Tools\VCAST;C:\Tools\VCAST\MinGW\bin;
+DBG_S      >  ...FILE PREFIX: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.DbVQKZckwwTg
+DBG_S 00058> ( 62073.913584300) CMD STATUS:  0
+DBG_T 00059> ( 62073.915933200) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.DbVQKZckwwTg.OUT
+DBG_N 00060> ( 62073.916667300) DeleteFileRetry: Finished
+DBG_T 00061> ( 62073.916710700) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.DbVQKZckwwTg.ERR
+DBG_N 00062> ( 62073.917779600) DeleteFileRetry: Finished
+DBG_T 00063> ( 62073.917854000) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.DbVQKZckwwTg.IN
+DBG_N 00064> ( 62073.918729700) DeleteFileRetry: Finished
+DBG_T 00065> ( 62073.918827200) EXECUTE_COMMAND_FOR_C: exit_status:  0
+DBG_T 00066> ( 62073.918837900) Get_Preprocessed_File: preprocess_status: 0
+DBG_T 00067> ( 62073.919522500) Get_Preprocessed_File: postprocess
+DBG_T 00068> ( 62073.921306600) Get_Preprocessed_File: deleting local file
+DBG_T 00069> ( 62073.921337000) In Delete_File: vcast_preprocess.10224.1000.c
+DBG_N 00070> ( 62073.921628300) DeleteFileRetry: Finished
+DBG_T 00071> ( 62073.921653700) Get_Preprocessed_File: completed
+DBG_N 00072> ( 62073.932509000) VECTORCAST_DIR : C:\Tools\VCAST\
+DBG_N      >  ...USER_HOME   : C:\Users\adm_shubham\
+DBG_N      >  ...USER_CURRENT: d:\python-mcp-server\vcastagent\project\vectorcast_env\ENV_CALC\
+DBG_N 00073> ( 62073.932543900) GET_UNIT_COMPILATION ARGUMENTS
+DBG_N      >  ...sample_rh850.c
+DBG_T 00074> ( 62073.932589000) In Delete_File: quickparse.error.tmp
+DBG_T 00075> ( 62073.932939600) PLATFORM.EXECUTE_COMMAND
+DBG_T      >  ...Command: C:\Tools\VCAST\edgfe_no_il --quick  --checksum 825110074 --orig sample_rh850.c --out EDG00001.QIK --c_exts ".c,.cpp,.c++,.cxx,.cc," --source_dirs_file C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.eEpcOArMdxxA --consider_subdirs  1  --edg -w --gcc --gnu_version 100200 --64_bit_target --x86_64 --mingw --no_remove_unneeded_entities "TU_sample_rh850.c"
+DBG_T      >  ...Directory: 
+DBG_S 00076> ( 62073.934065400) EXEC CMD: C:\Tools\VCAST\edgfe_no_il --quick  --checksum 825110074 --orig sample_rh850.c --out EDG00001.QIK --c_exts ".c,.cpp,.c++,.cxx,.cc," --source_dirs_file C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.eEpcOArMdxxA --consider_subdirs  1  --edg -w --gcc --gnu_version 100200 --64_bit_target --x86_64 --mingw --no_remove_unneeded_entities "TU_sample_rh850.c" WAIT:  2147483647
+DBG_S      >  ...PATH: C:\Tools\VCAST\MinGW\bin;C:\Tools\VCAST\MinGW\bin;C:\Tools\VCAST;C:\Python314\Scripts\;C:\Python314\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Tools\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Vector SIL Kit 5.0.1\x86\bin;C:\Program Files\Vector SIL Kit 5.0.1\x86_64\bin;C:\Program Files (x86)\Vector CANdb++ 3.1\Exec32;C:\Tools\nodejs\;C:\ProgramData\chocolatey\bin;C:\Tools\Putty\;C:\Tools\VCAST;C:\Tools\VCAST\MinGW\bin;C:\Users\adm_shubham\AppData\Local\Microsoft\WindowsApps;C:\Users\adm_shubham\AppData\Roaming\npm;C:\Users\adm_shubham\AppData\Roaming\Python\Python314\Scripts\;C:\Tools\VCAST;C:\Tools\VCAST\MinGW\bin;
+DBG_S      >  ...FILE PREFIX: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.cVsCkbJvuyLb
+DBG_S 00077> ( 62074.145200900) CMD STATUS:  0
+DBG_T 00078> ( 62074.146459900) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.cVsCkbJvuyLb.OUT
+DBG_N 00079> ( 62074.146882400) DeleteFileRetry: Finished
+DBG_T 00080> ( 62074.146901900) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.cVsCkbJvuyLb.ERR
+DBG_N 00081> ( 62074.147278600) DeleteFileRetry: Finished
+DBG_T 00082> ( 62074.147298300) In Delete_File: C:/Users/adm_shubham/AppData/Local/Temp/VCAST_TMP.10224.10ygb7/VCAST_TMP.cVsCkbJvuyLb.IN
+DBG_N 00083> ( 62074.147780600) DeleteFileRetry: Finished
+DBG_T 00084> ( 62074.148079300) In Delete_File: quickparse.error.tmp
+DBG_N 00085> ( 62074.148379200) DeleteFileRetry: Finished
+DBG_T 00086> ( 62074.148422200) In Delete_File: EDG00001.QIK
+DBG_N 00087> ( 62074.148671600) DeleteFileRetry: Finished
+DBG_T 00088> ( 62074.148701300) In Delete_File: TU_sample_rh850.c
+DBG_N 00089> ( 62074.148927900) DeleteFileRetry: Finished
+DBG_T 00090> ( 62074.149089600) In Delete_File: VCAST.OUT
+DBG_T 00091> ( 62074.149129100) In Delete_File: VCAST.ERR
+DBG_T 00092> ( 62074.149153500) In Delete_File: PARSE000.TMP

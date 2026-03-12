@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paramfile version="1">
+  <source_file index="1">
+    <path>D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC/ENV_CALC/S0000008.c</path>
+    <type>C_FILE</type>
+  </source_file>
+  <source_file index="2">
+    <path>D:/python-mcp-server/vcastagent/project/src/sample_rh850.c</path>
+    <type>C_FILE</type>
+  </source_file>
+  <unit name="USER_GLOBALS_VCAST" index="8" sbf="0" unit_description="Not Stubbed Unit">
+    <source_file index="1">
+      <path>D:/python-mcp-server/vcastagent/project/vectorcast_env/ENV_CALC/ENV_CALC/S0000008.c</path>
+      <type>C_FILE</type>
+    </source_file>
+    <global name="VECTORCAST_INT1" index="1" typeid="800001"/>
+    <global name="VECTORCAST_INT2" index="2" typeid="800001"/>
+    <global name="VECTORCAST_INT3" index="3" typeid="800001"/>
+    <global name="VECTORCAST_FLT1" index="4" typeid="800002"/>
+    <global name="VECTORCAST_STR1" index="5" typeid="100001"/>
+    <global name="VECTORCAST_BUFFER" index="6" typeid="100002"/>
+  </unit>
+  <unit name="sample_rh850" index="9" sbf="1" unit_description="UUT">
+    <source_file index="2">
+      <path>D:/python-mcp-server/vcastagent/project/src/sample_rh850.c</path>
+      <type>C_FILE</type>
+    </source_file>
+    <subprog name="add" index="1" mangled="add" parameterization="(int,int)int" full_prototype_instantiation="add" mock_function_type="(*)(int, int)" is_mockable="1" function_name="add">
+      <param name="a" index="1" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="b" index="2" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="return" index="3" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <source_file index="2"/>
+      <sbf index="4" obj_name="SBF_9_1"/>
+    </subprog>
+    <subprog name="is_even" index="2" mangled="is_even" parameterization="(int)int" full_prototype_instantiation="is_even" mock_function_type="(*)(int)" is_mockable="1" function_name="is_even">
+      <param name="x" index="1" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="return" index="2" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <source_file index="2"/>
+      <sbf index="3" obj_name="SBF_9_2"/>
+    </subprog>
+    <subprog name="max" index="3" mangled="max" parameterization="(int,int)int" full_prototype_instantiation="max" mock_function_type="(*)(int, int)" is_mockable="1" function_name="max">
+      <param name="a" index="1" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="b" index="2" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="return" index="3" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <source_file index="2"/>
+      <sbf index="4" obj_name="SBF_9_3"/>
+    </subprog>
+    <subprog name="check_conditions" index="4" mangled="check_conditions" parameterization="(int,int,int)int" full_prototype_instantiation="check_conditions" mock_function_type="(*)(int, int, int)" is_mockable="1" function_name="check_conditions">
+      <param name="a" index="1" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="b" index="2" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="c" index="3" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <param name="return" index="4" typeid="900001" orig_type="int" orig_declaration="int @NAME@"/>
+      <source_file index="2"/>
+      <sbf index="5" obj_name="SBF_9_4"/>
+    </subprog>
+  </unit>
+  <unit name="uut_prototype_stubs" index="10" sbf="0" unit_description="Stubbed Unit"/>
+  <environment_exceptions/>
+  <macro name="__USE_MINGW_ANSI_STDIO" int="1" source="1"/>
+</paramfile>

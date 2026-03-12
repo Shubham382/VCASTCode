@@ -1,0 +1,215 @@
+
+
+Saving Types for: ANON_LIST ------------------------------
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : CCAST_8_1
+stripped id : CCAST_8_1
+ty_pe : STR_ING
+string base typetype : CHAR_ACTER
+type_index  100001
+base_type : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : CCAST_8_1
+number_of_indices :  0
+array_index_expression : [8]
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : CCAST_8_1
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : CCAST_8_2
+stripped id : CCAST_8_2
+ty_pe : AR_RAY
+string base typetype : UNKNOWN
+type_index  100002
+base_type : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : int
+number_of_indices :  1
+array_index_expression : [4]
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+
+
+Saving Types for: DATA_IF_ADACAST_PKG ------------------------------
+
+
+Saving Types for: DATA_PKG_ADACAST ------------------------------
+
+
+Saving Types for: UUT_INTERFACE_ADACAST ------------------------------
+
+
+Saving Types for: USER_CODE_ADACAST ------------------------------
+
+
+Saving Types for: VECTORCAST_STANDARD_TYPES ------------------------------
+
+
+Saving Types for:  ------------------------------
+
+
+Saving Types for: VECTORCAST_IO ------------------------------
+
+
+Saving Types for: USER_GLOBALS_VCAST ------------------------------
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : int
+stripped id : int
+ty_pe : INT_EGER
+string base typetype : UNKNOWN
+type_index  800001
+base_type : 
+number_of_indices :  0
+array_index_expression : 
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : int
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : float
+stripped id : float
+ty_pe : FL_OAT
+string base typetype : UNKNOWN
+type_index  800002
+base_type : 
+number_of_indices :  0
+array_index_expression : 
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : float
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : char
+stripped id : char
+ty_pe : CHAR_ACTER
+string base typetype : UNKNOWN
+type_index  800003
+base_type : 
+number_of_indices :  0
+array_index_expression : 
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : char
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+
+
+Saving Types for: sample_rh850 ------------------------------
+*********************************************************
+******************* descriptor type *********************
+*********************************************************
+name : int
+stripped id : int
+ty_pe : INT_EGER
+string base typetype : UNKNOWN
+type_index  900001
+base_type : 
+number_of_indices :  0
+array_index_expression : 
+is_unconstrained : FALSE
+number_of_unc_indices :  0
+actual_type : 
+type_mark : 
+    ********* Vstring_List.list_type *********
+    identifier list item # 1 : int
+ignored_typemark : FALSE
+subtype range : FALSE
+range expression : 
+component list : 
+no_default : FALSE
+literal_list : 
+integer_range : FALSE
+float_digits : FALSE
+float_range : FALSE
+comes_from_c_file : FALSE
+parent_discriminant_set : FALSE
+Is_Const : FALSE
+ONLY_IN_PRIVATE_PART : FALSE
+
+
+Saving Types for: uut_prototype_stubs ------------------------------

@@ -1,0 +1,925 @@
+---- Subprograms for Unit  9
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : add
+    is_function : TRUE
+    unique id : S_9_1
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_1_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_1_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_1
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_1
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : is_even
+    is_function : TRUE
+    unique id : S_9_2
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: x
+        unique_id : 
+            VSTRING: P_9_2_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_2
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_2
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : max
+    is_function : TRUE
+    unique id : S_9_3
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_3_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_3_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_3
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_3
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : check_conditions
+    is_function : TRUE
+    unique id : S_9_4
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_4_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_4_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: c
+        unique_id : 
+            VSTRING: P_9_4_3
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_4
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_4
+
+
+null
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : is_even
+    is_function : TRUE
+    unique id : S_9_2
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: x
+        unique_id : 
+            VSTRING: P_9_2_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_2
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_2
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : max
+    is_function : TRUE
+    unique id : S_9_3
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_3_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_3_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_3
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_3
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : check_conditions
+    is_function : TRUE
+    unique id : S_9_4
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_4_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_4_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: c
+        unique_id : 
+            VSTRING: P_9_4_3
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_4
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_4
+
+
+null
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : max
+    is_function : TRUE
+    unique id : S_9_3
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_3_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_3_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_3
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_3
+
+
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : check_conditions
+    is_function : TRUE
+    unique id : S_9_4
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_4_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_4_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: c
+        unique_id : 
+            VSTRING: P_9_4_3
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_4
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_4
+
+
+null
+********* subprogram_pointer *********
+    ********* subprogram_record_type *********
+    name : check_conditions
+    is_function : TRUE
+    unique id : S_9_4
+    parameters : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: a
+        unique_id : 
+            VSTRING: P_9_4_1
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: b
+        unique_id : 
+            VSTRING: P_9_4_2
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        ********* parameter_record_type *********
+        name : 
+            VSTRING: c
+        unique_id : 
+            VSTRING: P_9_4_3
+        mode : DECLARED_IN_OUT
+        original_full_param : 
+            VSTRING: int
+        type_mark : 
+            ********* identifier_pointer *********
+                VSTRING: int
+            next : 
+            null
+        const : FALSE
+        const_ptr : FALSE
+        default : 
+            VSTRING: 
+        with_next : FALSE
+        next : 
+        ********* parameter_pointer *********
+        null
+    return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    actual_return_type : 
+        ********* identifier_pointer *********
+            VSTRING: int
+        next : 
+        null
+    return id : R_9_4
+    return_const : FALSE
+    return_const_ptr : FALSE
+    access type : PUBLIC
+    ty_pe : NORMAL
+    template_params : 
+    scope : 
+    external_linkage_type : 
+    external_linkage_block : 
+    inline : FALSE
+    const : FALSE
+    is_default : FALSE
+    exceptions : 
+        null
+    exception_types : 
+        null
+    from_header_file : FALSE
+    generic_parameters : 
+    generic_actuals : 
+        ********* generic_actual_list.list_type *********
+    generic_function : 
+        VSTRING: 
+    token_list : 
+    import linkage : 
+    import language : 
+    def_path : D:/python-mcp-server/vcastagent/project/src/sample_rh850.c
+    Is_Stub_Or_Testable : TRUE
+    SBF_Obj_Name : SBF_9_4
+
+
+null

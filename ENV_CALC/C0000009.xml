@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage_data xml_testcase_version="7">
+  <unit index="9" translation_unit_index="0" coverage_type="STATEMENT_MCDC" max_mcdc_conditions="8" field_width="8">
+    <name>sample_rh850</name>
+    <configuration>
+      <empty_statements_coverable>1</empty_statements_coverable>
+      <cover_catch_as_branch>1</cover_catch_as_branch>
+      <cover_logical_operators_in_parameters>1</cover_logical_operators_in_parameters>
+      <handle_ternary_operator>1</handle_ternary_operator>
+      <cover_nested_conditional>1</cover_nested_conditional>
+      <coverage_for_included_c_files>1</coverage_for_included_c_files>
+      <coverage_for_headers>0</coverage_for_headers>
+      <instrument_by_block>0</instrument_by_block>
+      <coverage_for_declarations>1</coverage_for_declarations>
+      <basis_paths_for_constant_branches>1</basis_paths_for_constant_branches>
+      <cover_included_c_files>1</cover_included_c_files>
+      <cover_headers>0</cover_headers>
+      <preprocessed>1</preprocessed>
+      <masking_mcdc>0</masking_mcdc>
+      <cuda_mode>0</cuda_mode>
+      <coverage_for_lambdas>2</coverage_for_lambdas>
+      <pack_instr_storage>1</pack_instr_storage>
+      <global_buffer_opts>0</global_buffer_opts>
+      <coverage_unit_registration>0</coverage_unit_registration>
+      <coverage_for_template_instantiations>0</coverage_for_template_instantiations>
+      <use_optimized_mcdc_instrumentation>1</use_optimized_mcdc_instrumentation>
+    </configuration>
+    <attributes>
+      <has_empty_statements>0</has_empty_statements>
+      <has_catch_statements>0</has_catch_statements>
+      <has_logical_operators_in_parameters>0</has_logical_operators_in_parameters>
+      <has_ternary_operator>0</has_ternary_operator>
+      <has_nested_ternary_operator>0</has_nested_ternary_operator>
+      <has_constant_branch>0</has_constant_branch>
+      <number_ascii_bytes>226</number_ascii_bytes>
+      <probe_point_after_last_include>19</probe_point_after_last_include>
+      <probe_point_beginning_of_file>8</probe_point_beginning_of_file>
+      <probe_point_end_of_file>52</probe_point_end_of_file>
+      <file_timestamp>1770118001</file_timestamp>
+      <file_checksum>4164009102</file_checksum>
+      <translation_unit_checksum>1033413277</translation_unit_checksum>
+    </attributes>
+    <source_files>
+      <source_file index="0" file_index="0" path="d:/python-mcp-server/vcastagent/project/src/sample_rh850.c" crc_checksum="4164009102" sha_checksum="00fe892645b3e9499f088993b9768553bee16030" timestamp="1770118001" lis_file_path="D:\python-mcp-server\vcastagent\project\vectorcast_env\ENV_CALC\ENV_CALC\B0000009.LIS"/>
+    </source_files>
+    <template_function_prototypes/>
+    <subprogram index="1">
+      <name>add</name>
+      <source_file_index>0</source_file_index>
+      <parameterized>add(int,int)int</parameterized>
+      <mangled>add</mangled>
+      <source_function_checksum>2297675267</source_function_checksum>
+      <translation_unit_function_checksum>2297675267</translation_unit_function_checksum>
+      <lines>
+        <line type="Branch" number="0" conditions="1" condition_value="1" is_function_entry="1" id="1" stmt_id="0" startline="6" startcol="1" endline="6" endcol="1" tustartline="22" tustartcol="1" tuendline="22" tuendcol="1" allowed_position="3"/>
+        <line type="Statement" number="1" id="1" stmt_id="2" startline="7" startcol="5" endline="7" endcol="17" tustartline="23" tustartcol="5" tuendline="23" tuendcol="17" allowed_position="0"/>
+      </lines>
+      <startline>22</startline>
+      <startcol>1</startcol>
+      <endline>24</endline>
+      <endcol>1</endcol>
+      <orig_startline>6</orig_startline>
+      <orig_endline>8</orig_endline>
+      <firstexec_startline>23</firstexec_startline>
+      <firstexec_startcol>5</firstexec_startcol>
+      <firstexec_orig_startline>7</firstexec_orig_startline>
+      <open_brace_tu_line>22</open_brace_tu_line>
+      <open_brace_tu_col>1</open_brace_tu_col>
+      <open_brace_src_line>6</open_brace_src_line>
+      <metrics>
+        <complexity>1</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>1</total>
+        </coverage>
+        <coverage coverage_type="MCDC">
+          <total>1</total>
+        </coverage>
+        <coverage coverage_type="MCDC_PAIRS">
+          <total>0</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="2">
+      <name>is_even</name>
+      <source_file_index>0</source_file_index>
+      <parameterized>is_even(int)int</parameterized>
+      <mangled>is_even</mangled>
+      <source_function_checksum>2940433685</source_function_checksum>
+      <translation_unit_function_checksum>2940433685</translation_unit_function_checksum>
+      <lines>
+        <line type="Branch" number="0" conditions="1" condition_value="1" is_function_entry="1" id="2" stmt_id="0" startline="12" startcol="1" endline="12" endcol="1" tustartline="28" tustartcol="1" tuendline="28" tuendcol="1" allowed_position="3"/>
+        <line type="Branch" number="1" conditions="4" id="1" stmt_id="1" startline="13" startcol="5" endline="13" endcol="19" tustartline="29" tustartcol="5" tuendline="29" tuendcol="19" allowed_position="0"/>
+        <line type="Statement" number="2" id="2" stmt_id="5" startline="14" startcol="9" endline="14" endcol="17" tustartline="30" tustartcol="9" tuendline="30" tuendcol="17" allowed_position="0"/>
+        <line type="Statement" number="3" id="3" stmt_id="9" startline="16" startcol="9" endline="16" endcol="17" tustartline="32" tustartcol="9" tuendline="32" tuendcol="17" allowed_position="0"/>
+      </lines>
+      <startline>28</startline>
+      <startcol>1</startcol>
+      <endline>33</endline>
+      <endcol>1</endcol>
+      <orig_startline>12</orig_startline>
+      <orig_endline>17</orig_endline>
+      <firstexec_startline>29</firstexec_startline>
+      <firstexec_startcol>5</firstexec_startcol>
+      <firstexec_orig_startline>13</firstexec_orig_startline>
+      <open_brace_tu_line>28</open_brace_tu_line>
+      <open_brace_tu_col>1</open_brace_tu_col>
+      <open_brace_src_line>12</open_brace_src_line>
+      <metrics>
+        <complexity>2</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>3</total>
+        </coverage>
+        <coverage coverage_type="MCDC">
+          <total>5</total>
+        </coverage>
+        <coverage coverage_type="MCDC_PAIRS">
+          <total>1</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="3">
+      <name>max</name>
+      <source_file_index>0</source_file_index>
+      <parameterized>max(int,int)int</parameterized>
+      <mangled>max</mangled>
+      <source_function_checksum>3972531629</source_function_checksum>
+      <translation_unit_function_checksum>3972531629</translation_unit_function_checksum>
+      <lines>
+        <line type="Branch" number="0" conditions="1" condition_value="1" is_function_entry="1" id="3" stmt_id="0" startline="21" startcol="1" endline="21" endcol="1" tustartline="37" tustartcol="1" tuendline="37" tuendcol="1" allowed_position="3"/>
+        <line type="Branch" number="1" conditions="4" id="2" stmt_id="1" startline="22" startcol="5" endline="22" endcol="14" tustartline="38" tustartcol="5" tuendline="38" tuendcol="14" allowed_position="0"/>
+        <line type="Statement" number="2" id="4" stmt_id="5" startline="23" startcol="9" endline="23" endcol="17" tustartline="39" tustartcol="9" tuendline="39" tuendcol="17" allowed_position="0"/>
+        <line type="Statement" number="3" id="5" stmt_id="9" startline="25" startcol="9" endline="25" endcol="17" tustartline="41" tustartcol="9" tuendline="41" tuendcol="17" allowed_position="0"/>
+      </lines>
+      <startline>37</startline>
+      <startcol>1</startcol>
+      <endline>42</endline>
+      <endcol>1</endcol>
+      <orig_startline>21</orig_startline>
+      <orig_endline>26</orig_endline>
+      <firstexec_startline>38</firstexec_startline>
+      <firstexec_startcol>5</firstexec_startcol>
+      <firstexec_orig_startline>22</firstexec_orig_startline>
+      <open_brace_tu_line>37</open_brace_tu_line>
+      <open_brace_tu_col>1</open_brace_tu_col>
+      <open_brace_src_line>21</open_brace_src_line>
+      <metrics>
+        <complexity>2</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>3</total>
+        </coverage>
+        <coverage coverage_type="MCDC">
+          <total>5</total>
+        </coverage>
+        <coverage coverage_type="MCDC_PAIRS">
+          <total>1</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+    <subprogram index="4">
+      <name>check_conditions</name>
+      <source_file_index>0</source_file_index>
+      <parameterized>check_conditions(int,int,int)int</parameterized>
+      <mangled>check_conditions</mangled>
+      <source_function_checksum>493381444</source_function_checksum>
+      <translation_unit_function_checksum>493381444</translation_unit_function_checksum>
+      <lines>
+        <line type="Branch" number="0" conditions="1" condition_value="1" is_function_entry="1" id="4" stmt_id="0" startline="30" startcol="1" endline="30" endcol="1" tustartline="46" tustartcol="1" tuendline="46" tuendcol="1" allowed_position="3"/>
+        <line type="Branch" number="1" conditions="8" id="1" stmt_id="1" startline="31" startcol="5" endline="31" endcol="36" tustartline="47" tustartcol="5" tuendline="47" tuendcol="36" allowed_position="0"/>
+        <line type="Statement" number="2" id="6" stmt_id="5" startline="32" startcol="9" endline="32" endcol="17" tustartline="48" tustartcol="9" tuendline="48" tuendcol="17" allowed_position="0"/>
+        <line type="Statement" number="3" id="7" stmt_id="9" startline="34" startcol="9" endline="34" endcol="17" tustartline="50" tustartcol="9" tuendline="50" tuendcol="17" allowed_position="0"/>
+      </lines>
+      <startline>46</startline>
+      <startcol>1</startcol>
+      <endline>51</endline>
+      <endcol>1</endcol>
+      <orig_startline>30</orig_startline>
+      <orig_endline>35</orig_endline>
+      <firstexec_startline>47</firstexec_startline>
+      <firstexec_startcol>5</firstexec_startcol>
+      <firstexec_orig_startline>31</firstexec_orig_startline>
+      <open_brace_tu_line>46</open_brace_tu_line>
+      <open_brace_tu_col>1</open_brace_tu_col>
+      <open_brace_src_line>30</open_brace_src_line>
+      <metrics>
+        <complexity>2</complexity>
+        <coverage coverage_type="STATEMENT">
+          <total>3</total>
+        </coverage>
+        <coverage coverage_type="MCDC">
+          <total>9</total>
+        </coverage>
+        <coverage coverage_type="MCDC_PAIRS">
+          <total>3</total>
+        </coverage>
+      </metrics>
+    </subprogram>
+  </unit>
+</coverage_data>

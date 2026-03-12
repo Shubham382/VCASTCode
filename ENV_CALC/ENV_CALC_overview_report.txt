@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+Environment Overview
+--------------------------------------------------------------------------------
+
+
+
+
+  Environment Name:    ENV_CALC
+  Environment Status:  Normal
+  Environment Version: REVISION_2025_DEFAULT_SFP
+  Environment Build Type: Full
+  Coverage Status:     Statement+MC/DC (enabled)
+  Language:            C
+  Compiler Name:       VectorCAST MinGW_C
+  White Box:           Yes
+  Search List:         $(d)\src  (testable)
+                       $(d)\include  (testable)
+  Units Under Test:    sample_rh850
+  Stub List:           None
+  Stub None (Source Files): None
+
